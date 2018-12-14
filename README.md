@@ -1,2 +1,5 @@
-# cpp.clean_simple_project
-Simple project using cmake without extra libs
+# C++ Cmake sample Project
+
+Sample projecto using cmake without extra third-party libs.
+
+Just Compile and Run
